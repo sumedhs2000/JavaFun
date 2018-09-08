@@ -1,3 +1,0 @@
-this is first master file
-modified by grandchild
-master modified content
