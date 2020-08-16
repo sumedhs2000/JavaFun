@@ -16,7 +16,7 @@ public class MySpringBean implements BeanNameAware, ApplicationContextAware,
     private String message;
 	
 	public MySpringBean(){
-		System.out.println(in ctor of MySpringBean---");
+		System.out.println("in ctor of MySpringBean---");
 	}
 
     public void sendMessage(String message) {
